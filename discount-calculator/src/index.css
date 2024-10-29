@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(4, 103, 103);
+}
+.container{
+    background-color: aliceblue;
+}
+h2{
+    color: brown;
+    text-decoration: underline;
+}
